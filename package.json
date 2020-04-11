@@ -43,7 +43,6 @@
     "example",
     "integration test",
     "jasmine",
-    "selenium-webdriver",
     "wd",
     "webdriver manager"
   ],
