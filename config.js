@@ -17,4 +17,4 @@ async function config(url, browser) {
         .get(url);
 }
 
-module.exports = config;
+export default config;
