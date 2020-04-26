@@ -1,9 +1,0 @@
-| referrer                                                                                                       | count | uniques |
-| :------------------------------------------------------------------------------------------------------------- | :---- | :------ |
-| /e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-assert                                          | 10    | 1       |
-| /e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-assert/blob/master/package.json                 | 3     | 1       |
-| /e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-assert/actions                                  | 1     | 1       |
-| /e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-assert/actions/runs/76185142                    | 1     | 1       |
-| /e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-assert/blob/master/.github/workflows/nodejs.yml | 1     | 1       |
-| /e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-assert/tree/master/.github                      | 1     | 1       |
-| /e2e-boilerplate/wd-es-modules-babel-webdriver-manager-jasmine-assert/tree/master/.github/workflows            | 1     | 1       |
